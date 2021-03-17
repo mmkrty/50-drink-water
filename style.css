@@ -96,6 +96,7 @@ h3 {
   justify-content: center;
   text-align: center;
   transition: 0.3s ease;
+  cursor: pointer;
 }
 
 .cup.cup-small.full {
